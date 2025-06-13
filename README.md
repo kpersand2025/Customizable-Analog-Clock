@@ -1,4 +1,4 @@
-# Customizable Analog Clock 🕒
+# Customizable Analog Clock
 
 A Java-based analog clock application built as a final project for a GUI Programming course. The clock displays the current time and date, and allows users to customize its appearance.
 
