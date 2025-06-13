@@ -15,3 +15,8 @@ A Java-based analog clock application built as a final project for a GUI Program
 
 - Java
 - Java Swing (GUI framework)
+
+## 📸 Screenshot
+
+![Customizable Analog Clock Screenshot](Screenshot.png)
+
